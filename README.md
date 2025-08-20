@@ -18,7 +18,8 @@ Centralized tracker for daily nutrition, hydration, supplements, medications, we
 - [KPIs](#kpis)  
 - [Workflows](#workflows)  
 - [Troubleshooting](#troubleshooting)  
-- [Repo Layout](#repo-layout)    
+- [Repo Layout](#repo-layout)
+- [Roadmap](#roadmap)    
 - [Acknowledgments](#acknowledgments)
 
 ---
